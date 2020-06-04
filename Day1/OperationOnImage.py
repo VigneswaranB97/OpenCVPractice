@@ -26,4 +26,4 @@ cv2.imwrite('randomBW.png', bwImg)
 
 byteArray = bytearray(imS)
 bgrImage = np.array(byteArray).reshape(960, 540, 3) 
-cv2.imwrite('RandomGray.png', bgrImage)
+cv2.imwrite('RandomGray.png', bgrImage) # Raw bytes to image, (** Note **: some random image will be the output, Not the one we expect)
