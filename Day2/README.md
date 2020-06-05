@@ -15,3 +15,8 @@
 * **cv2.VideoWriter_fourcc('M','J','P','G')**: This is motion-JPEG. The file extension should be avi. 
 * **cv2.VideoWriter_fourcc('T','H','E','O')**: This is Ogg-Vorbis. The file extension should be ogv. 
 * **cv2.VideoWriter_fourcc(cv.CV_FOURCC('F','L','V','1')**: This is Flash video. The file extension should be flv. 
+
+## Capture.py
+
+* It will capture video from camera, and writes it to a file that we specify
+* Even we can convert the frame to black and white, or hsv and write it to a file (eg .avi)
