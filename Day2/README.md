@@ -1,5 +1,11 @@
 # Day 2
 
+``` Working On Videos: ```
+* Reading and writing Video.
+* Avi to mp4 and vise versa.
+* Getting FPS.
+* Getting size.
+
 ## For VideoWriter class, There are several Video Codec
 
  ```The available codecs may vary from system to system. Options include: ```
